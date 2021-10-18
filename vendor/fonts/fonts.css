@@ -1,0 +1,15 @@
+@font-face {
+  src: url(./sourcesanspro.woff) format("woff");
+  src: url(./sourcesanspro.woff2) format("woff2");
+  font-family: "SourceSansPro";
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url(./sourcesansprobold.woff) format("woff");
+  src: url(./sourcesansprobold.woff2) format("woff2");
+  font-family: "SourceSansPro";
+  font-style: normal;
+  font-weight: bold;
+}

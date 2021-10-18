@@ -1,3 +1,6 @@
+
+  @import url(./pages/index.css);
+
   .page {
     width: 100%;
     margin:0 auto;
@@ -13,6 +16,8 @@
   .block{
     border: solid;
     border-color: aqua;
+    font-family: "SourceSansPro";
+    border: 1px solid aqua;
   }
   .header{
     margin:0 auto;
