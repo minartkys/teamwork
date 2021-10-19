@@ -1,8 +1,6 @@
 .lead {
-  width: 90%;
+  padding: 37px 70px;
   margin: 0 auto;
-  margin-top: 70px;
-  margin-bottom: 150px;
   display: flex;
   justify-content: space-between;
   max-width: 1280px;

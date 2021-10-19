@@ -1,7 +1,5 @@
 .digits {
-  width: 90%;
-  margin: auto;
-  margin-top: 180px;
-  margin-bottom: 180px;
+  margin: 0 auto;
   max-width: 1280px;
+  padding: 130px 67px;
 }
