@@ -1,0 +1,8 @@
+.place {
+  overflow: hidden;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 82vh;
+  background-color: #f2f2f2;
+}
