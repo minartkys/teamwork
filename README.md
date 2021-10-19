@@ -10,4 +10,4 @@
 
 #### Ссылки проекта
 
-* [Ссылка на проект в GitHub Pages](https://)
+* [Ссылка на проект в GitHub Pages](https://minartkys.github.io/teamwork/index.html)
