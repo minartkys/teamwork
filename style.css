@@ -93,6 +93,9 @@
   .place__title{
     margin:0;
 }
+.place:last-of-type .place__image{
+  object-fit: cover;
+}
   .place__text{
     margin:0px;
     margin-bottom: 50px;
@@ -102,3 +105,57 @@
     margin:0px;
 }
 
+.table {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: auto;
+}
+.table__text {
+  margin:0;
+  font-size: 18px;
+  line-height: 1.2;
+  font-weight: normal;
+  margin-top: 40px;
+  margin-bottom: 0px;
+}
+.table__heading {
+  margin:0px;
+  max-width: 540px;
+}
+.table__cell {
+  width: 300px;
+  margin-top: 160px;
+}
+.digits{
+  width: 90%;
+  margin: auto;
+  margin-top: 180px;
+  margin-bottom: 180px;
+}
+.digits__title{
+  margin:0;
+  margin-bottom: 30px;
+  width: 90%;
+  color:#FECEA9;
+  font-size: 17px;
+  line-height: 18px;
+}
+.digits__subtitle{
+  margin:0;
+  width: 560px;
+  font-size: 44px;
+  font-style: normal;
+  font-weight: bold;
+}
+.footer{
+  display: flex;
+  height: 100vh;
+  background-color: #FECEA9;
+}
+.footer__text{
+  margin:auto auto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 44px;
+}
