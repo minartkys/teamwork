@@ -1,9 +1,7 @@
 .place__text {
   margin: 0px;
-  margin-bottom: 50px;
-  max-width: 440px;
-}
-
-.place__text:last-child {
-  margin: 0px;
+  margin-bottom: 30px;
+  max-width: 330px;
+  font-size: 14px;
+  line-height: 20px;
 }
