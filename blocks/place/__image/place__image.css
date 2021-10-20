@@ -1,8 +1,6 @@
 .place__image {
   width: 100%;
-  object-position: 0 -170px;
+  object-fit: cover;
+  height: 535px;
 }
 
-.place:last-of-type .place__image {
-  object-fit: cover;
-}

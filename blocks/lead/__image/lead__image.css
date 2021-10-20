@@ -1,5 +1,8 @@
 .lead__image {
-  width: 450px;
-  height: 450px;
-  margin-right: 120px;
+  width: 355px;
+  height: 355px;
+  margin: 0 auto;
+  object-fit: cover;
+  flex:1;
+  
 }
