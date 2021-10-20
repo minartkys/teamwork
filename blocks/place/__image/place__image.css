@@ -1,0 +1,8 @@
+.place__image {
+  width: 100%;
+  object-position: 0 -170px;
+}
+
+.place:last-of-type .place__image {
+  object-fit: cover;
+}

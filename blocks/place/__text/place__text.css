@@ -1,0 +1,9 @@
+.place__text {
+  margin: 0px;
+  margin-bottom: 50px;
+  max-width: 440px;
+}
+
+.place__text:last-child {
+  margin: 0px;
+}

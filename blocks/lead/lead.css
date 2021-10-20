@@ -1,0 +1,8 @@
+.lead {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 70px;
+  margin-bottom: 150px;
+  display: flex;
+  justify-content: space-between;
+}
