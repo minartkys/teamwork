@@ -1,7 +1,19 @@
 .place__text {
   margin: 0px;
-  margin-bottom: 30px;
-  max-width: 330px;
+  margin-bottom: 23px;
+  max-width: 363px;
   font-size: 14px;
   line-height: 20px;
+}
+.place:nth-last-of-type(1) .place__text:nth-last-child(3){
+  max-width: 350px;
+
+}
+.place:nth-last-of-type(1) .place__text:nth-last-child(2){
+  margin-top: 25px;
+  max-width: 343px;
+  margin-bottom:19px;
+}
+.place:nth-last-of-type(1) .place__text:nth-last-child(1){
+  margin-bottom:6px;
 }
