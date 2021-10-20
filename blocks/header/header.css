@@ -3,3 +3,9 @@
   padding: 47px 69px;
   max-width: 1280px;
 }
+
+@media (max-width: 768px) {
+  .header {
+    position: relative;
+  }
+}
