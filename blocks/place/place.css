@@ -1,0 +1,12 @@
+.place {
+  overflow: hidden;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+@media (max-width: 768px) {
+  .place {
+    grid-template-columns: 1fr;
+  }
+}
