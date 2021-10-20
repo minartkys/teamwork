@@ -1,7 +1,13 @@
 .lead__caption {
   margin: 0;
-  margin-bottom: 30px;
+  padding-bottom: 30px;
   color: #fecea9;
   font-size: 14px;
   line-height: 18px;
+}
+
+@media (max-width: 768px) {
+  .lead__caption {
+    padding-bottom: 15px;
+  }
 }

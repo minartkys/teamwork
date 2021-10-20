@@ -3,3 +3,9 @@
   height: 620px;
   background-color: #fecea9;
 }
+
+@media (max-width: 1279px) {
+  .footer {
+    height: calc(100vw / (1280 / 620));
+  }
+}

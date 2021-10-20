@@ -5,15 +5,28 @@
   font-size: 14px;
   line-height: 20px;
 }
-.place:nth-last-of-type(1) .place__text:nth-last-child(3){
+.place:nth-last-of-type(1) .place__text:nth-last-child(3) {
   max-width: 350px;
-
 }
-.place:nth-last-of-type(1) .place__text:nth-last-child(2){
+.place:nth-last-of-type(1) .place__text:nth-last-child(2) {
   margin-top: 25px;
   max-width: 343px;
-  margin-bottom:19px;
+  margin-bottom: 19px;
 }
-.place:nth-last-of-type(1) .place__text:nth-last-child(1){
-  margin-bottom:6px;
+.place:nth-last-of-type(1) .place__text:nth-last-child(1) {
+  margin-bottom: 6px;
+}
+
+@media (max-width: 768px) {
+  .place__text {
+    max-width: 85%;
+    margin: 0 auto;
+  }
+
+  .place:nth-last-of-type(1) .place__text:nth-last-child(2) {
+    max-width: 85%;
+  }
+  .place:nth-last-of-type(1) .place__text:nth-last-child(3) {
+    max-width: 85%;
+  }
 }

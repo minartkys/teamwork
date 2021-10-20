@@ -1,5 +1,17 @@
 .lead__title {
   margin: 0;
   font-size: 36px;
-  max-width:590px ;
+  max-width: 590px;
+}
+@media (max-width: 1024px) {
+  .lead__title {font-size: 32px;
+    padding-right:15px ;
+  }
+}
+
+@media (max-width: 768px) {
+  .lead__title {
+    padding-bottom: 15px;
+
+  }
 }

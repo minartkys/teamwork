@@ -2,3 +2,11 @@
   margin: 0;
   font-size: 36px;
 }
+@media (max-width: 768px) {
+  .place__title {
+    font-size: 32px;
+    max-width: 90%;
+    margin: 0 auto;
+    padding-bottom: 15px;
+  }
+}

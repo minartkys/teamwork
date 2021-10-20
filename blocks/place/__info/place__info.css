@@ -7,6 +7,14 @@
   justify-content: space-between;
 }
 
+
+@media (max-width: 1024px) {
+  .place__info {
+    padding: 20px 0 0;
+    margin: 0 auto;
+  }
+}
+
 @media (max-width: 768px) {
   .place__info {
     order: -1;
