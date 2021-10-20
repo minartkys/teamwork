@@ -2,7 +2,7 @@
   width: 100%;
   min-width: 320px;
   margin: 0 auto;
-  
+
   font-family: "SourceSansPro", Arial, Helvetica, sans-serif;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -16,4 +16,5 @@
 /*
  *{
   border: 1px solid aqua;
+
 }*/
