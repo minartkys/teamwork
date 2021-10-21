@@ -7,3 +7,9 @@
   .digits {
     padding: 90px 67px;
   }
+}
+@media (max-width: 440px) {
+  .digits {
+    padding: 50px 22px;
+  }
+}

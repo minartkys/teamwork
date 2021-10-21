@@ -10,3 +10,8 @@
     margin: auto;
   }
 }
+@media (max-width: 440px) {
+  .place__image {
+    min-height:200px
+  }
+}
