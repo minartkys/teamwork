@@ -4,3 +4,9 @@
   max-height: 535px;
   height: calc((100vw / 2) / ((1280 / 2) / 535));
 }
+@media (max-width: 768px) {
+  .place__image  {
+    width: 90%;
+    margin: auto;
+  }
+}
