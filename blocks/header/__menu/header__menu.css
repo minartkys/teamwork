@@ -6,7 +6,16 @@
 
 @media (max-width: 768px) {
   .header__menu {
-    display: none;
+    padding: 5px 0 5px 5px;
+    transition: 0.5s;
+    position: absolute;
+    top: 15px;
+    left: 60px;
+    flex-direction: column;
+    transform: translateY(-150%);
+    background-color: #f2f2f2;
+    width: calc(100vw - 66px);
+    border-radius: 10px;
+    z-index: 0;
   }
 }
-
