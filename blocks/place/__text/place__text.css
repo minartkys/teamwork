@@ -19,14 +19,14 @@
 
 @media (max-width: 768px) {
   .place__text {
-    max-width: 85%;
+    max-width: 75%;
     margin: 0 auto;
   }
 
   .place:nth-last-of-type(1) .place__text:nth-last-child(2) {
-    max-width: 85%;
+    max-width: 75%;
   }
   .place:nth-last-of-type(1) .place__text:nth-last-child(3) {
-    max-width: 85%;
+    max-width: 75%;
   }
 }
