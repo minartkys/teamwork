@@ -2,6 +2,7 @@
   margin: 0 auto;
   max-width: 1280px;
   padding: 130px 67px;
+  box-sizing: border-box;
 }
 @media (max-width: 768px) {
   .digits {
